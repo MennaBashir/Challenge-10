@@ -75,9 +75,10 @@ body{
 .box1 p{
     text-align: center;
     color: #c6d0db;
-    margin-right: 15px;
     line-height: 22px;
-    margin-left: 15px;
+    max-width: 200px;
+    margin: auto;
+    margin-top: 15px;
 }
 .box2{
     flex: 1;
